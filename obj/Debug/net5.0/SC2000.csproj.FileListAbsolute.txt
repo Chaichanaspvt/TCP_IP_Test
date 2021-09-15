@@ -1,0 +1,15 @@
+/Users/Mac/001-SPVision/Hikvision/SC2000/bin/Debug/net5.0/SC2000.deps.json
+/Users/Mac/001-SPVision/Hikvision/SC2000/bin/Debug/net5.0/SC2000.runtimeconfig.json
+/Users/Mac/001-SPVision/Hikvision/SC2000/bin/Debug/net5.0/SC2000.runtimeconfig.dev.json
+/Users/Mac/001-SPVision/Hikvision/SC2000/bin/Debug/net5.0/SC2000.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000/bin/Debug/net5.0/ref/SC2000.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000/bin/Debug/net5.0/SC2000.pdb
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.csproj.AssemblyReference.cache
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.AssemblyInfoInputs.cache
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.AssemblyInfo.cs
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.csproj.CoreCompileInputs.cache
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/ref/SC2000.dll
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.pdb
+/Users/Mac/001-SPVision/Hikvision/SC2000/obj/Debug/net5.0/SC2000.genruntimeconfig.cache
